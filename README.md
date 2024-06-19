@@ -32,11 +32,11 @@
 <a href="https://www.instagram.com/qkdwn_/"><img src="https://img.shields.io/badge/qkdwn__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 ***
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkdwn&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkdwn&layout=compact)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjhbjh0313)](https://solved.ac/bjhbjh0313)
 
 ***
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjhbjh0313)](https://solved.ac/bjhbjh0313)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkdwn&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkdwn&layout=compact)
 
 <br>since 2024.06.19
 
