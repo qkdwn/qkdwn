@@ -2,12 +2,11 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=☃️WINTER☃️%20&desc=Ju%20Hyun%20Bang&color=90E4FF)
 
-안녕하세요!👋 <br>
-닉네임은 겨울을 좋아해서 Winter❄️입니다. <br>
-현재 대학교를 다니고 있으며, 코딩 및 보안을 공부하고 있습니다. <br>
-기초부터 천천히 다지고, 개발자가 되기 위해 달리는 중입니다.🏃‍♀️ <br><br>
+안녕하세요🖐️ <br>
+닉네임은 겨울을 좋아해서 Winter입니다. <br>
+현재 대학교를 다니며, 코딩 및 보안을 공부하고 있습니다. <br>
+기초부터 천천히 다지고 있고, 개발자가 되기 위해 달리는 중입니다.🏃‍♀️ <br><br>
 
-😊 About Me 😊 <br>
 ***
 🌱 Recently Studying 🌱<br>
 
