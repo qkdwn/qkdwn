@@ -26,13 +26,6 @@
 <img src="https://img.shields.io/badge/Linux-FCC624.svg?&style-for-the-badge&logo=Linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717.svg?&style-for-the-badge&logo=GitHub&logoColor=white"/>
 
-
-
-📫 Contact 📫<br>
-
-<img src="https://img.shields.io/badge/qkdwn__@naver.com-088142?style=flat-square&logo=Naver&logoColor=green"/></a>
-<a href="https://www.instagram.com/qkdwn_/"><img src="https://img.shields.io/badge/qkdwn__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-
 ***
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjhbjh0313)](https://solved.ac/bjhbjh0313)
 
